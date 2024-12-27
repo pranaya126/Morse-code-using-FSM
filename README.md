@@ -1,1 +1,2 @@
 # Morse-code-using-FSM
+Morse code can be efficiently implemented using a **Finite State Machine (FSM)**, a computational model with a finite number of states and transitions. In this approach, the FSM processes dot (.) and dash (-) sequences, transitioning between states based on input signals. It detects complete characters or words, making it ideal for real-time decoding. Using an FSM for Morse code provides a predictable, scalable, and efficient method for encoding and decoding messages, especially in embedded systems and communication devices.
